@@ -77,3 +77,12 @@ body {
 .secondText {
     margin-bottom: 16px;
 }
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;                
+    background-color:#000000;
+    height: 1.15px;
+}
